@@ -11,3 +11,5 @@ Notes:
   - Run in terminal: python MarkesSingleOdorants.py
   - Python version tested: 3.6
 - TwoPhotonMosquitoHolder: design files for mosquito holder used for two-photon imaging
+  - MosquitoHolder.stl: 3D printed plastic frames
+  - MosqMetalPlate.dxf: photochemically etched stainless steel plate
