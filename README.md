@@ -6,4 +6,8 @@ Notes:
 - ArduinoPlot: used to read and plot photoionization detector (PID) data, forked from https://github.com/gregpinero/ArduinoPlot
 - OdorDeliverySystem: Arduino codes and Python GUI for odor delivery system
   - ArduinoCode needs to be uploaded to Arduino boards.
+  - Install Python modules in required_modules.txt
+  - Change com port names in MarkesSingleOdorants.py
+  - Run in terminal: python MarkesSingleOdorants.py
+  - Python version tested: 3.6
 - TwoPhotonMosquitoHolder: design files for mosquito holder used for two-photon imaging

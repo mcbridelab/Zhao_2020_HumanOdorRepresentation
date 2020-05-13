@@ -1,0 +1,9 @@
+PyCmdMessenger
+tkinter
+datetime
+time
+numpy
+sklearn
+threading
+nidaqmx
+multiprocessing
