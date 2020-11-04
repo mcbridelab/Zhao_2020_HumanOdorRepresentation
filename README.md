@@ -1,6 +1,5 @@
 # Zhao_2020_HumanOdorRepresentation
-Codes for Zhao et al, 2020. A robust neural code for human odour in the Aedes aegypti mosquito brain.    
-bioRxiv link:     
+Codes for Zhao et al, 2020. Chemical signatures of human odour generate a unique neural code in the brain of _Aedes aegypti_ mosquitoes. bioRxiv, [https://doi.org/10.1101/2020.11.01.363861](https://doi.org/10.1101/2020.11.01.363861)       
 <br>
 Notes:
 - ArduinoPlot: used to read and plot photoionization detector (PID) data, forked from https://github.com/gregpinero/ArduinoPlot
