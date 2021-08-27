@@ -12,3 +12,4 @@ Notes:
 - TwoPhotonMosquitoHolder: design files for mosquito holder used for two-photon imaging
   - MosquitoHolder.stl: 3D-printed plastic frame
   - MosqMetalPlate.dxf: photochemically etched stainless steel plate
+- XCMSanalysis: alternative analysis for odour-profile data
